@@ -1,0 +1,12 @@
+[submodule "BottomCarousel"]
+	path = BottomCarousel
+	url = https://github.com/hrr48-BlueJayWay/BottomCarousel.git
+[submodule "product-options"]
+	path = product-options
+	url = https://github.com/hrr48-BlueJayWay/product-options.git
+[submodule "productView"]
+	path = productView
+	url = https://github.com/hrr48-BlueJayWay/productView.git
+[submodule "review"]
+	path = review
+	url = https://github.com/hrr48-BlueJayWay/review.git
